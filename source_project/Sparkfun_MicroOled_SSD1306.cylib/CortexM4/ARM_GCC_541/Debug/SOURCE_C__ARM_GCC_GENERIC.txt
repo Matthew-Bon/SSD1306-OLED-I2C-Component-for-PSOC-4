@@ -1,0 +1,1 @@
+'C:\Users\Root\Documents\PSoC Creator\OLED_libraries\Sparkfun_MicroOled_SSD1306.cylib\untitled01.c' -o .o -T SOURCE_C__ARM_GCC_GENERIC -f 'C:\Users\Root\Documents\PSoC Creator\OLED_libraries\Sparkfun_MicroOled_SSD1306.cylib\CortexM4\ARM_GCC_541\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.d'

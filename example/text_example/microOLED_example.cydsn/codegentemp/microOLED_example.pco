@@ -1,0 +1,26 @@
+# microOLED_example
+# 2019-05-19 03:49:11Z
+
+# IO_6@[IOP=(0)][IoId=(6)] is reserved: SWDDebugEnabled
+dont_use_io iocell 0 6
+# IO_7@[IOP=(0)][IoId=(7)] is reserved: SWDDebugEnabled
+dont_use_io iocell 0 7
+# IO_0@[IOP=(6)][IoId=(0)] is reserved: KhzXtalEnabled
+dont_use_io iocell 6 0
+# IO_1@[IOP=(6)][IoId=(1)] is reserved: KhzXtalEnabled
+dont_use_io iocell 6 1
+dont_use_location 0 1
+dont_use_location 1 0
+dont_use_location 1 1
+dont_use_location mxs40_opamp -1 -1 1
+dont_use_location p4abufcell -1 -1 1
+dont_use_location mxs40_opamp -1 -1 2
+dont_use_location p4abufcell -1 -1 2
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_location "ClockBlock" m0s8clockblockcell -1 -1 0
+set_io "\OLED_SSD1306_1:I2C:sda(0)\" iocell 3 4
+set_io "\OLED_SSD1306_1:I2C:scl(0)\" iocell 3 5
+set_io "\OLED_SSD1306_1:OLED_ADDR_Select(0)\" iocell 0 1
+set_io "\OLED_SSD1306_1:OLED_Reset(0)\" iocell 0 0
+set_location "\OLED_SSD1306_1:I2C:SCB_IRQ\" interrupt -1 -1 10
+set_location "\OLED_SSD1306_1:I2C:SCB\" m0s8scbcell -1 -1 1

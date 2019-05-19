@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|17975819-682b-4b1f-8f6e-661c1c482c71
+C:\Users\Root\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|6c61d552-ccce-4c8f-bf3b-ed4246077cf9
+C:\Users\Root\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|dff427d6-7aa0-4548-b643-91e8e6bd77b2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0f80c098-2ea6-4956-b768-1c904e078155
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0c5b142a-b6dc-4ef8-9f75-c25b4e7f3a8d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|86096536-50fb-429d-a840-9beafd91f18c
+C:\Users\Root\Documents\PSoC Creator\Workspace06\microOLED_example.cydsn\microOLED_example.cyprj|71c14ffd-7dac-4279-a916-f6057d02da88

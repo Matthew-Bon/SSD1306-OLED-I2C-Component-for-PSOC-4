@@ -1,0 +1,4 @@
+C:/Users/Root/Documents/PSoC\ Creator/OLED_libraries/Sparkfun_MicroOled_SSD1306.cylib/CortexM0p/ARM_GCC_541/Debug/untitled01.o : C:/Users/Root/Documents/PSoC\ Creator/OLED_libraries/Sparkfun_MicroOled_SSD1306.cylib/untitled01.c 
+
+C:/Users/Root/Documents/PSoC\ Creator/OLED_libraries/Sparkfun_MicroOled_SSD1306.cylib/untitled01.c : 
+
