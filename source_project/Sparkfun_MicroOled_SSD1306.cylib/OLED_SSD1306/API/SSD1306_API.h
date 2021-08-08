@@ -115,6 +115,12 @@ static uint8_t `$INSTANCE_NAME`_Oled_characters[] = {
     0x00, 0x9e, 0x92, 0x92, 0x92, 0x92, 0xfe, 0x00, // '9' 
     0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // ' ' 
 }; 
+
+
+/*Utility Functions*/
+
+uint8 `$INSTANCE_NAME`_OLED_int_to_char(uint8 number); //Converts int 
+
 #endif
 
 /* [] END OF FILE */

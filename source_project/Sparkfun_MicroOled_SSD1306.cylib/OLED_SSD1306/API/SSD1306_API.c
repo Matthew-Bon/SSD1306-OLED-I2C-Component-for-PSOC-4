@@ -1865,4 +1865,11 @@ int `$INSTANCE_NAME`_OLED_write_characters(char *data, uint8 row, uint8 column, 
   return error_status; 
 }
 
+uint8 `$INSTANCE_NAME`_OLED_int_to_char(uint8 number) //Converts int to char 
+{
+    uint8 new_val = 0; 
+    new_val = number + '0'; 
+    return new_val;
+}
+
 /* [] END OF FILE */
